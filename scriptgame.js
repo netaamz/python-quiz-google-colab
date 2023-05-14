@@ -448,8 +448,13 @@ function exitGame() {
 function confirmExit() {
   if (confirm("Are you sure you want to exit the game?")) {
        // Close the current window/tab
-       window.close();
-      
-      
+       window.close();   
   }
+  function login() {
+  var username = document.getElementById('username').value;
+  var password = document.getElementById('password').value;
+  
+  // Send the username and password to the Python backend
+  google.colab.kernel.invokeFunction('handle_login', [username, password], {});
+}
 }
