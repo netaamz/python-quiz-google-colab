@@ -388,6 +388,7 @@ function closeScoreModal() {
   document.getElementById("score-modal").style.display = "none";
   const lifeContainer = document.getElementById('life-container');
   for (let i = 0; i < 3; i++) {
+    lives = 3;
     const lifeIcon = document.createElement('span');
     lifeIcon.classList.add('life-icon');
     lifeContainer.appendChild(lifeIcon);
