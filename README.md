@@ -1,6 +1,8 @@
 # Python Trivia Game - UNICORNE GROUP 🦄
 
 *prototype version*
+part of course project, of software engeeniring students 
+
 firebase python trivia game🔥🐍
 premmison to relevat files from the google drive for running the game
 https://drive.google.com/drive/folders/1gpl6-R-OdshM6LgNCYdqEo3LpXKPeRMa?usp=sharing
