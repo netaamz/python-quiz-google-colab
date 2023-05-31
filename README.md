@@ -11,9 +11,13 @@ https://kanbanflow.com/board/ExsZRT3#
 
 HOW TO PLAY: 🕹️
 1.click the pythongame.ipynb file
+
 2.click "open code on colab" 
+
 3.in the Google Colab click the run tab on the tool bar-> click run all
+
 4. log in the the user written on the note 
+
 5. have fun learning and playing
 
 Feel free to suggest farther ideas and changes
